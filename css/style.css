@@ -57,3 +57,8 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+/* カードの角の丸み */
+.card {
+  border-radius: 0;
+}
